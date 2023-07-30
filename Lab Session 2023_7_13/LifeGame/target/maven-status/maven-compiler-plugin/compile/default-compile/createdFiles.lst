@@ -1,0 +1,7 @@
+com\mycompany\lifegame\OppositePlayer.class
+com\mycompany\lifegame\RegularPlayer.class
+com\mycompany\lifegame\LifeGame.class
+com\mycompany\lifegame\Movement.class
+com\mycompany\lifegame\Player.class
+com\mycompany\lifegame\CrouchingPlayer.class
+com\mycompany\lifegame\JumpingPlayer.class
